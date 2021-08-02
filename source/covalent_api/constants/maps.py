@@ -23,12 +23,3 @@ AVAILABLE_CHAIN_IDS_CONTRACT_METADATA = {
     'Fuji C-Chain Testnet': '43113',
     'Fantom Opera Mainnet': '250'
 }
-
-#Available Dexes
-AVAILABLE_DEXES = {
-'sushiswap','sushiswap',
-'quickswap','quickswap',
-'pangolin','pangolin',
-'spiritswap','spiritswap',
-'spookyswap','spookyswap',
-}
